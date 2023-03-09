@@ -41,3 +41,5 @@ config/locales/devise.en.yml
 db/schema.rb
 test/fixtures/users.yml
 test/models/user_test.rb
+.env
+
