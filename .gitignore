@@ -33,3 +33,13 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+config/initializers/devise.rb
+db/migrate
+app/models/user.rb
+config/locales/devise.en.yml
+db/schema.rb
+test/fixtures/users.yml
+test/models/user_test.rb
+.env
+
